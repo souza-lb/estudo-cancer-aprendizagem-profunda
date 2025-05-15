@@ -185,7 +185,7 @@ já definidos o processo demora em torno de 11 minutos. Experimente alterar os p
 
 Nesta tela você vê como está a precisão/acurácia no pós treinamento
 
-![Tela acurária](/imagens/tela-acurária.png)
+![Tela acurária](/imagens/tela-acurácia.png)
 
 
 Aqui você vê a execução de um teste usando uma imagem de exemplo
