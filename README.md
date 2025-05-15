@@ -57,6 +57,11 @@ ID de fornecedor:             GenuineIntel
     BogoMIPS:                 3591,83
 
 
+<h4>Vídeo</h4>
+
+Intel HD (Integrada Série 3000)
+
+
 <h4>Disco</h4>
 
 SSD 120GB Kabum
