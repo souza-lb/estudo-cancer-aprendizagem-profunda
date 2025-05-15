@@ -103,9 +103,15 @@ watermark==2.4.0
 <h2>Criação do Ambiente de Execução</h2>
 
 <b>Passo 1 - Obter arquivos: </b>
-Clone o repositório usando o "git clone" ou faça o download dos arquivos e extraia em uma pasta. Você deverá notar uma estrutura conforme a imagem abaixo:
+Clone o repositório usando o "git clone https://github.com/souza-lb/estudo-cancer-aprendizagem-profunda.git" ou faça o download dos arquivos e extraia em uma pasta. Você deverá notar uma estrutura conforme a imagem abaixo:
 
-![Tela arquivos repositório](/imagens/tela-arquivos-repositorio.png)  
+![Tela arquivos repositório](/imagens/tela-arquivos-repositorio.png)
+
+
+Para fazer o download direto pelo site sem usar o git observe a imagem abaixo:
+
+![Tela download](/imagens/tela-download.png)
+
 
 
 <b>Passo 2 - Instalar miniconda3</b>
