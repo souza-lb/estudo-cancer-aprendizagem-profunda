@@ -1,0 +1,5 @@
+# remove ambiente criado:
+conda env remove -n cancer_dl_env
+
+# cria ambiente com base no .yml
+conda env create -f ambiente.yml
