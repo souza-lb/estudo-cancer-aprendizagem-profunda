@@ -169,10 +169,54 @@ Selecione o notebook (arquivo "cancer-aprendizagem-profunda.ipynb") conforme a i
 
 
 
+Segue abaixo algumas telas que você receberá durante a execução deste notebook:
 
 
+Arqui você vê como está a distribuição de "positivo" e "negativo" nos arquivos fornecidos para treinamento.
+
+![Tela distribuição de classes](/imagens/tela-distribuição-classes.png)
 
 
+Na tela de treinamento você observa o processamento e a geração do modelo. Em uma márquina bem limitada e mantendo os parâmetros
+já definidos o processo demora em torno de 11 minutos. Experimente alterar os parâmetros (patiance e EPOCHS e observe os resultados)
+
+![Tela célula inicial](/imagens/tela-treinamento.png)
+
+
+Nesta tela você vê como está a precisão/acurácia no pós treinamento
+
+![Tela acurária](/imagens/tela-acurária.png)
+
+
+Aqui você vê a execução de um teste usando uma imagem de exemplo
+
+![Tela teste positivo](/imagens/tela-teste-amostra-positivo.png)
+
+
+<b>Dúvidas sugestões e contribuições?</b>
+Leonardo Bruno
+souzalb@proton.me
+
+<b>Gostou do repositório e quer realizar um contribuição voluntária para o desenvolvedor? (Pode ser o valor de uma xícara de café ou chá...) ☕ 🍵
+Segue minha chave pix: 8dcc7e3c-0c6a-4c6f-a4c0-26a5e62686db
+
+Ou utilize o QR Code abaixo
+</b>
+
+<p align="center">
+  <img src="/imagens/qrcode-pix.png" alt="código-qr">
+</p>
+
+<b>Você também pode utilizar o PayPal para uma doação</b>
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=EQVW5QQ7GBGSY)
+
+
+<p align="center">
+  <img src="/imagens/qrcode-paypal.png" alt="código-qr-paypal">
+</p>
+
+<b>A utilização deste projeto é livre para alterações e adaptações feita a devida referência ao repositório original e seu criador.</b>
 
 
 
