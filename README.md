@@ -100,6 +100,26 @@ icu=73.2
 watermark==2.4.0
 
 
+<h2>Criação do Ambiente de Execução</h2>
+
+<b>Obter arquivos</b>
+Clone o repositório usando o "git clone" ou faça o download dos arquivos e extraia em uma pasta. Você deverá notar uma estrutura conforme a imagem abaixo:
+
+![Tela arquivos repositório](/imagens/tela-arquivos-repositorio.png)  
+
+
+<b>Miniconda3</b>
+Instale o miniconda (https://www.anaconda.com/docs/getting-started/miniconda/install). Caso você utilize linux eu criei um script que
+automatiza a instalação do miniconda bem como a configuração do bashrc. Eu prefiro não ativar a inicialização automática do miniconda e crio alias para
+ativá-lo de acordo com minha necessidade. Se você desejar autilizar o script que automatiza a instalação é o arquivo "instalar-miniconda.sh". Lembrando que o script funciona
+apenas em sistemas linux (terminal bash). Caso utilize windows siga as instruções do site citado acima.
+
+
+
+
+
+
+
 
 
 
