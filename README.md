@@ -159,7 +159,7 @@ jupyter notebook
 Selecione o notebook (arquivo "cancer-aprendizagem-profunda.ipynb") conforme a imagem abaixo:
 
 
-![Tela seleção notebook](/imagens/tela-seleção-notebook-jupyter.png)
+![Tela seleção notebook](/imagens/tela-seleção-inicial-notebook-jupyter.png)
 
 
 
