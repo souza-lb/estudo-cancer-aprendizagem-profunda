@@ -135,6 +135,15 @@ A estrutura da pasta ficará conforme abaixo:
 conda env create -f ambiente.yml
 ```
 
+O miniconda efetuará o download e instalação do Python na versão necessária para o projeto bem como todas as bibliotecas
+que são necessárias para a execução (bem prático né? Melhor que buscar cada biblioteca manualmente). Por curiosidade você pode abrir
+o arquivo "ambiente.yml" num editor de texto comum e consultar os detalhes do ambiente que será criado. O processo pode demorar
+um pouco dependendo da sua velocidade de conexão com internet. Se tudo der certo você receberá uma tela conforme abaixo:
+
+
+![Tela ambiente](/imagens/tela-ambiente.png)
+
+
 
 
 
