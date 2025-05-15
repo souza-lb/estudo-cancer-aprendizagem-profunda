@@ -108,7 +108,9 @@ Clone o repositório usando o "git clone https://github.com/souza-lb/estudo-canc
 ![Tela arquivos repositório](/imagens/tela-arquivos-repositorio.png)
 
 
+
 Para fazer o download direto pelo site sem usar o git observe a imagem abaixo:
+
 
 ![Tela download](/imagens/tela-download.png)
 
