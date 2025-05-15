@@ -1,4 +1,4 @@
-<h1>Estudo de exemplo Câncer Aprendizagem Profunda</h1>
+<h1>Estudo de Exemplo Câncer Aprendizagem Profunda</h1>
 
 ![Tela inicial notebook](/imagens/tela-teste-amostra-positivo.png)  
 
