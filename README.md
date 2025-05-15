@@ -123,6 +123,14 @@ ativá-lo de acordo com minha necessidade. Se você desejar autilizar o script q
 apenas em sistemas linux (terminal bash). Caso utilize windows siga as instruções do site citado acima.
 
 
+<b>Passo 3 - Extraia os arquivos "dados.zip" e "modelo.zip"</b>
+A estrutura da pasta ficará conforme abaixo:
+
+
+![Tela arquivos](/imagens/tela-arquivos.png)
+
+
+
 
 
 
