@@ -1,5 +1,7 @@
 <h1>Estudo de exemplo Câncer Aprendizagem Profunda</h1>
 
+![Tela inicial notebook](/imagens/tela-teste-amostra-positivo.png)  
+
 Adaptação do modelo disponibilizado na disciplina Inteligência Artificial
 
 <h2>O que esse repositório inclui?</h2>
