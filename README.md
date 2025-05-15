@@ -129,6 +129,12 @@ A estrutura da pasta ficará conforme abaixo:
 
 ![Tela arquivos](/imagens/tela-arquivos.png)
 
+<b>Passo 4 - Abra um terminal com o conda na pasta onde você colocou os arquivos obtidos no repositório e execute:
+
+```bash
+conda env create -f ambiente.yml
+```
+
 
 
 
