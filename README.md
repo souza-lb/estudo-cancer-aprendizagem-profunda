@@ -162,8 +162,10 @@ Selecione o notebook (arquivo "cancer-aprendizagem-profunda.ipynb") conforme a i
 ![Tela seleção notebook](/imagens/tela-seleção-inicial-notebook-jupyter.png)
 
 
+<b>Passo 5 - Execute as células na sequência e observe o processamento</b>
 
 
+![Tela célula inicial](/imagens/tela-celula-inicial.png)
 
 
 
