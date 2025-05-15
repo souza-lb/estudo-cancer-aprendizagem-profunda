@@ -135,14 +135,31 @@ A estrutura da pasta ficará conforme abaixo:
 conda env create -f ambiente.yml
 ```
 
-O miniconda efetuará o download e instalação do Python na versão necessária para o projeto bem como todas as bibliotecas
-que são necessárias para a execução (bem prático né? Melhor que buscar cada biblioteca manualmente). Por curiosidade você pode abrir
-o arquivo "ambiente.yml" num editor de texto comum e consultar os detalhes do ambiente que será criado. O processo pode demorar
+O miniconda efetuará o download e instalação do Python e do Jupyter Notebook na versão necessária para o projeto, bem como todas as bibliotecas
+que são necessárias para a execução (bem prático né? Melhor que buscar cada biblioteca manualmente e instalar com o pip uma por vez). Por curiosidade você pode abrir
+o arquivo "ambiente.yml" num editor de texto comum e consultar os detalhes do ambiente que será criado. O processo de criação do ambiente pode demorar
 um pouco dependendo da sua velocidade de conexão com internet. Se tudo der certo você receberá uma tela conforme abaixo:
 
 
 ![Tela ambiente](/imagens/tela-ambiente.png)
 
+A tela já de passa a instrução de como ativar o ambiente. Vamos executar no terminal o comando a seguir:
+
+
+```bash
+conda activate cancer_dl_env
+```
+
+<b>Passo 5 - Execute o Jupyter Notebook - execute no terminal que você ativou o ambiente o comando a seguir: </b>
+
+```bash
+jupyter notebook
+```
+
+Selecione o notebook (arquivo "cancer-aprendizagem-profunda.ipynb") conforme a imagem abaixo:
+
+
+![Tela seleção notebook](/imagens/tela-seleção-notebook-jupyter.png)
 
 
 
