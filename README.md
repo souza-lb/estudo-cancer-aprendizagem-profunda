@@ -85,18 +85,18 @@ Jupyter Notebook 7.4.2
 
 Bibliotecas Python:
 
-numpy=1.26.0
-matplotlib=3.8.0
-opencv=4.8.1
-scikit-learn=1.3.2
-tensorflow=2.15.0
-keras=2.15.0
-imutils=0.5.4
-jupyter=1.0.0
+numpy==1.26.0
+matplotlib==3.8.0
+opencv==4.8.1
+scikit-learn==1.3.2
+tensorflow==2.15.0
+keras==2.15.0
+imutils==0.5.4
+jupyter==1.0.0
 seaborn==0.13.0
-pip=23.3.1
-libprotobuf=3.21.12
-icu=73.2
+pip==23.3.1
+libprotobuf==3.21.12
+icu==73.2
 watermark==2.4.0
 
 
