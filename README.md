@@ -108,7 +108,7 @@ watermark==2.4.0
 <b>Passo 1 - Obter arquivos: </b>
 Clone o repositório usando o "git clone https://github.com/souza-lb/estudo-cancer-aprendizagem-profunda.git" ou faça o download dos arquivos e extraia em uma pasta. Você deverá notar uma estrutura conforme a imagem abaixo:
 
-![Tela arquivos repositório](/imagens/tela-arquivos-repositorio.png)
+![Tela arquivos repositório](/imagens/tela-arquivos-repositoriov2.png)
 
 
 
