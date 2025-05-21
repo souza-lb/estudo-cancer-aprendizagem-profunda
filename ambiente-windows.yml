@@ -1,0 +1,24 @@
+# Arquivo com configuração de ambiente (projeto teste câncer aprendizagem profunda)
+# Criador: Leonardo Bruno
+# Data: 15/05/2025
+# Versão: 1.0 Windows
+
+name: cancer_dl_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.13
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - imutils
+  - jupyter
+  - seaborn
+  - pip
+  - libprotobuf
+  - icu
+  - pip:
+    - watermark==2.4.0
+    - opencv-python==4.8.1.78  # Usar o pacote pip para OpenCV
+    - tensorflow==2.15.0  # Instalar via pip no Windows
