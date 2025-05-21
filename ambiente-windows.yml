@@ -1,7 +1,7 @@
 # Arquivo com configuração de ambiente (projeto teste câncer aprendizagem profunda)
 # Criador: Leonardo Bruno
-# Data: 15/05/2025
-# Versão: 1.0 Windows
+# Data: 20/05/2025
+# Versão: 2.0 Windows
 
 name: cancer_dl_env
 channels:
@@ -20,5 +20,5 @@ dependencies:
   - icu
   - pip:
     - watermark==2.4.0
-    - opencv-python==4.8.1.78  # Usar o pacote pip para OpenCV
-    - tensorflow==2.15.0  # Instalar via pip no Windows
+    - opencv-python==4.8.1.78
+    - tensorflow==2.15.0
