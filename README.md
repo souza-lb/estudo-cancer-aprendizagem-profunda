@@ -6,8 +6,7 @@ Adaptação do modelo disponibilizado na disciplina Inteligência Artificial
 
 <h2>O que esse repositório inclui?</h2>
 
-* Arquivo ambiente-linux.yml com ecossistema completo para executar o exemplo de maneira facilitada em sistemas GNU/Linux.
-* Arquivo ambiente-windows.yml com ecossistema completo para executar o exemplo de maneira facilitada em sistemas Windows.
+* Arquivo ambiente.yml com ecossistema completo para executar o exemplo de maneira facilitada.
 * Arquivo dados.zip com imagens de amostra para treinamento e imagens para teste.
 * Arquivo modelo.zip com modelo de treinamento (keras)
 * Arquivo instalar-miniconda.sh com script shell para automatização de instalação do miniconda.
