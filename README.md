@@ -75,6 +75,7 @@ SSD 120GB Kabum
 <h4>Sistemas</h4>
 
 Debian 12.10.0 64 Bits (kernel #1 SMP PREEMPT_DYNAMIC Debian 6.1.135-1 (2025-04-25) x86_64 GNU/Linux)
+
 Windows 10 64 bits 2023 Versão 22H2 Home Edition 
 
 <h4>Softwate</h4>
