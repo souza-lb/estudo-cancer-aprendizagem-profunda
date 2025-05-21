@@ -72,11 +72,9 @@ SSD 120GB Kabum
 
 8GB DDR3 (2 módulos 4GB)
 
-<h4>Sistemas</h4>
+<h4>Sistema</h4>
 
 Debian 12.10.0 64 Bits (kernel #1 SMP PREEMPT_DYNAMIC Debian 6.1.135-1 (2025-04-25) x86_64 GNU/Linux)
-
-Windows 10 64 bits 2023 Versão 22H2 Home Edition 
 
 <h4>Softwate</h4>
 
@@ -108,7 +106,7 @@ watermark==2.4.0
 <b>Passo 1 - Obter arquivos: </b>
 Clone o repositório usando o "git clone https://github.com/souza-lb/estudo-cancer-aprendizagem-profunda.git" ou faça o download dos arquivos e extraia em uma pasta. Você deverá notar uma estrutura conforme a imagem abaixo:
 
-![Tela arquivos repositório](/imagens/tela-arquivos-repositoriov2.png)
+![Tela arquivos repositório](/imagens/tela-arquivos-repositorio.png)
 
 
 
@@ -130,18 +128,12 @@ apenas em sistemas linux (terminal bash). Caso utilize windows siga as instruç�
 A estrutura da pasta ficará conforme abaixo:
 
 
-![Tela arquivos](/imagens/tela-arquivosv2.png)
+![Tela arquivos](/imagens/tela-arquivos.png)
 
 <b>Passo 4 - Abra um terminal com o conda na pasta onde você colocou os arquivos obtidos no repositório e execute: </b>
 
 ```bash
-conda env create -f ambiente-linux.yml
-```
-
-Ou se você utilizar Windows:
-
-```bash
-conda env create -f ambiente-windows.yml
+conda env create -f ambiente.yml
 ```
 
 O miniconda efetuará o download e instalação do Python e do Jupyter Notebook na versão necessária para o projeto, bem como todas as bibliotecas
