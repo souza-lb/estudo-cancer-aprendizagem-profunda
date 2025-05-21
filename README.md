@@ -6,7 +6,8 @@ Adaptação do modelo disponibilizado na disciplina Inteligência Artificial
 
 <h2>O que esse repositório inclui?</h2>
 
-* Arquivo ambiente.yml com ecossistema completo para executar o exemplo de maneira facilitada.
+* Arquivo ambiente-linux.yml com ecossistema completo para executar o exemplo de maneira facilitada em sistemas GNU/Linux.
+* Arquivo ambiente-windows.yml com ecossistema completo para executar o exemplo de maneira facilitada em sistemas Windows.
 * Arquivo dados.zip com imagens de amostra para treinamento e imagens para teste.
 * Arquivo modelo.zip com modelo de treinamento (keras)
 * Arquivo instalar-miniconda.sh com script shell para automatização de instalação do miniconda.
@@ -71,9 +72,10 @@ SSD 120GB Kabum
 
 8GB DDR3 (2 módulos 4GB)
 
-<h4>Sistema</h4>
+<h4>Sistemas</h4>
 
 Debian 12.10.0 64 Bits (kernel #1 SMP PREEMPT_DYNAMIC Debian 6.1.135-1 (2025-04-25) x86_64 GNU/Linux)
+Windows 10 64 bits 2023 Versão 22H2 Home Edition 
 
 <h4>Softwate</h4>
 
@@ -132,7 +134,13 @@ A estrutura da pasta ficará conforme abaixo:
 <b>Passo 4 - Abra um terminal com o conda na pasta onde você colocou os arquivos obtidos no repositório e execute: </b>
 
 ```bash
-conda env create -f ambiente.yml
+conda env create -f ambiente-linux.yml
+```
+
+Ou se você utilizar Windows:
+
+```bash
+conda env create -f ambiente-windows.yml
 ```
 
 O miniconda efetuará o download e instalação do Python e do Jupyter Notebook na versão necessária para o projeto, bem como todas as bibliotecas
