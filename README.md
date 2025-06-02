@@ -4,6 +4,10 @@
 
 Adaptação do modelo disponibilizado na disciplina Inteligência Artificial
 
+* <b>Atualização!</b> Com base no script que criei para este projeto (instalação miniconda) eu aprimorei a solução e produzi uma alternativa para
+  facilitar a instalação/remoção do miniconda. Caso você deseje uma solução mais robusta para manipular seu ambiente miniconda.
+  faça uma visita ao repositório : https://github.com/souza-lb/easy-miniconda.git
+
 <h2>O que esse repositório inclui?</h2>
 
 * Arquivo ambiente.yml com ecossistema completo para executar o exemplo de maneira facilitada.
