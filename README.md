@@ -20,7 +20,6 @@ source ~/.bashrc  # ou reinicie o terminal
 **Principais comandos:**
 - `conda-on`: Ativa a base do conda
 - `conda-off`: Desativa completamente o conda
-- `update-miniconda`: Atualiza a instalação
 
 👉 [Repositório oficial](https://github.com/souza-lb/easy-miniconda.git)
 
