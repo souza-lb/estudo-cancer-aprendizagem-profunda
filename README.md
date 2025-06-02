@@ -198,4 +198,3 @@ Se este projeto foi útil, considere apoiar o desenvolvimento:
 ---
 
 **Licença:** Livre para uso e adaptações, mantendo os créditos ao autor original.
-```
